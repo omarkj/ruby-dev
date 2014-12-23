@@ -1,0 +1,7 @@
+name             'setup-psql'
+maintainer       'Omar Yasin'
+maintainer_email 'omarkj@gmail.com'
+license          'MIT'
+description      'Setup vagrant postgres superuser'
+long_description 'Setup vagrant postgres superuser'
+version          '1.0.0'
